@@ -11,10 +11,14 @@
             "id": "b4b204a76ba74b8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS SAA-C03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS SAA-C03"
             }
           }
         ]
@@ -151,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AWS/AWS SAA-C03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of AWS SAA-C03"
             }
           },
           {
@@ -188,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4b204a76ba74b8a",
+  "active": "01decac0cb5c226c",
   "lastOpenFiles": [
+    "Untitled.base",
     "2026-07-14.md",
     "Untitled.canvas",
     "Storage Gateway.md",

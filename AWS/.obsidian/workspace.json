@@ -209,13 +209,23 @@
               "icon": "lucide-list",
               "title": "Outline of Specification"
             }
+          },
+          {
+            "id": "67a94165356ad398",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +235,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc0ce980c913a434",
+  "active": "0fd6d2affafa1e10",
   "lastOpenFiles": [
     "S3.md",
     "AWS SAA-C03.md",
