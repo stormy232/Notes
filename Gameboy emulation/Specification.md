@@ -1,0 +1,5 @@
+[[CPU]]
+[[GPU]]
+[[RAM BUS]]
+[[OPCODES]]
+[[ROMS]]
