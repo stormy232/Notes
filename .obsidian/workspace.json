@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS SAA-C03.md",
+                "file": "DeepLearning/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS SAA-C03"
+              "title": "Untitled"
             }
           }
         ]
@@ -193,35 +193,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01decac0cb5c226c",
+  "active": "b4b204a76ba74b8a",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-07-14.md",
-    "Untitled.canvas",
-    "Storage Gateway.md",
+    "AWS/AMI.md",
+    "DeepLearning/Untitled.md",
+    "DeepLearning",
     "AWS/AWS SAA-C03.md",
-    "Kinesis.md",
-    "API Gateway.md",
-    "Elastic Beanstalk.md",
-    "ElastiCache.md",
-    "SNS.md",
-    "SQS.md",
-    "Lambda.md",
-    "CloudTrail.md",
-    "CloudWatch.md",
-    "CloudFormation.md",
-    "DynamoDB.md",
-    "Aurora.md",
-    "RDS.md",
-    "Cloudfront.md",
-    "EBS.md",
-    "EFS.md",
-    "ELB.md",
-    "Route 53.md",
-    "Autoscaling Groups.md",
-    "VPC Endpoints.md",
-    "AMI.md",
-    "EC2.md",
-    "Pasted image 20260708135232.png"
+    "AWS/Untitled.base",
+    "2026-07-14.md",
+    "AWS/Untitled.canvas",
+    "AWS/Storage Gateway.md",
+    "AWS/Kinesis.md",
+    "AWS/API Gateway.md",
+    "AWS/Elastic Beanstalk.md",
+    "AWS/ElastiCache.md",
+    "AWS/SNS.md",
+    "AWS/SQS.md",
+    "AWS/Lambda.md",
+    "AWS/CloudTrail.md",
+    "AWS/CloudWatch.md",
+    "AWS/CloudFormation.md",
+    "AWS/DynamoDB.md",
+    "AWS/Aurora.md",
+    "AWS/RDS.md",
+    "AWS/Cloudfront.md",
+    "AWS/EBS.md",
+    "AWS/EFS.md",
+    "AWS/ELB.md",
+    "AWS/Route 53.md",
+    "AWS/Autoscaling Groups.md",
+    "AWS/VPC Endpoints.md",
+    "AWS/EC2.md",
+    "AWS/Pasted image 20260708135232.png"
   ]
 }
