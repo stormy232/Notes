@@ -53,3 +53,7 @@ Microarch (Datapaths, controllers)
 	- fastest mem can be expensive and power and space hungry
 	- conflict addr by heiarchy where fastest,smallest and most expensive at top and largest slowest cheapest at bottom
 - Dependability
+
+
+Assembly Lang meant to make it notation close to how humans think for an alternative to machine code giving meaningful names to individ instructions
+
