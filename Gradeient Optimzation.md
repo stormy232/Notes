@@ -1,0 +1,4 @@
+- input vector x
+- matrix W
+- target, y_true
+- loss function
