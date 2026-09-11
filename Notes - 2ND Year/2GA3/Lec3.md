@@ -30,3 +30,8 @@ Computers are pervaisive
 - The architecture level describes computer from the programmers perspective
 - focused on registers, instructions, datapaths, controllers
 
+
+We are mostly focused on digital circuits -> (AND GATES, OR GATES, XOR GATES, etc)
+Logic (Adders, Memory)
+Microarch (Datapaths, controllers)
+

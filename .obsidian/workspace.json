@@ -213,17 +213,18 @@
   },
   "active": "b383eadff0e32354",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Gameboy emulation/Specification.md",
+    "DeepLearning/Gradeient Optimzation.md",
+    "DeepLearning/Neural Network.md",
+    "DeepLearning/Data Represenations.md",
     "Notes - 2ND Year/2GA3/Lec3.md",
+    "Untitled.md",
     "Notes - 2ND Year/2GA3",
     "Notes - 2ND Year",
     "AWS/Security Groups.md",
     "Filters.md",
     "Spring Security.md",
-    "Gradeient Optimzation.md",
-    "Tensor Operations.md",
-    "DeepLearning/Neural Network.md",
-    "Data Represenations.md",
+    "DeepLearning/Tensor Operations.md",
     "DeepLearning/Deep Learning Overview.md",
     "AWS/AMI.md",
     "DeepLearning",
@@ -243,7 +244,6 @@
     "AWS/CloudWatch.md",
     "AWS/CloudFormation.md",
     "AWS/DynamoDB.md",
-    "AWS/Aurora.md",
     "AWS/Pasted image 20260708135232.png"
   ]
 }
