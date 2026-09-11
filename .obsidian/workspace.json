@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filters.md",
+                "file": "Notes - 2ND Year/2GA3/Lec3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filters"
+              "title": "Lec3"
             }
           }
         ],
@@ -213,8 +213,13 @@
   },
   "active": "b383eadff0e32354",
   "lastOpenFiles": [
-    "Spring Security.md",
+    "Untitled.md",
+    "Notes - 2ND Year/2GA3/Lec3.md",
+    "Notes - 2ND Year/2GA3",
+    "Notes - 2ND Year",
+    "AWS/Security Groups.md",
     "Filters.md",
+    "Spring Security.md",
     "Gradeient Optimzation.md",
     "Tensor Operations.md",
     "DeepLearning/Neural Network.md",
@@ -239,9 +244,6 @@
     "AWS/CloudFormation.md",
     "AWS/DynamoDB.md",
     "AWS/Aurora.md",
-    "AWS/RDS.md",
-    "AWS/Cloudfront.md",
-    "AWS/EBS.md",
     "AWS/Pasted image 20260708135232.png"
   ]
 }
