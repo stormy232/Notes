@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes - 2ND Year/2GA3/Lec3.md",
+                "file": "Notes - 2ND Year/2LC3/Lec 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lec3"
+              "title": "Lec 3"
             }
           }
         ],
@@ -213,11 +213,14 @@
   },
   "active": "b383eadff0e32354",
   "lastOpenFiles": [
+    "Notes - 2ND Year/2GA3/Lec3.md",
+    "Notes - 2ND Year/2LC3/Lec 3.md",
+    "Notes - 2ND Year/2LC3/Untitled.canvas",
+    "Notes - 2ND Year/2LC3",
     "Gameboy emulation/Specification.md",
     "DeepLearning/Gradeient Optimzation.md",
     "DeepLearning/Neural Network.md",
     "DeepLearning/Data Represenations.md",
-    "Notes - 2ND Year/2GA3/Lec3.md",
     "Untitled.md",
     "Notes - 2ND Year/2GA3",
     "Notes - 2ND Year",
@@ -243,7 +246,6 @@
     "AWS/CloudTrail.md",
     "AWS/CloudWatch.md",
     "AWS/CloudFormation.md",
-    "AWS/DynamoDB.md",
     "AWS/Pasted image 20260708135232.png"
   ]
 }
