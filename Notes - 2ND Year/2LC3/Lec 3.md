@@ -30,5 +30,13 @@ $$
 
 
 $$
-(x = 0) \implies [x := x+1] \ (x=1) \ \checkmark \newline
+(x = 0) \implies [x := x+1] \ (x=1) \ \checkmark 
 $$
+$$
+(x < 0) \implies [x := x+1] \ (x>0) 
+$$
+$$
+(x > 0) \implies [x := x+1] \ (x>0) \ \checkmark 
+$$
+
+
