@@ -21,6 +21,14 @@ Program correctness statements:
  - C is statement
  - and Q is post condition
 
-$$
+This is a Hoare triple
 
+$$
+P\implies [C]\ \ Q
+$$
+"If command C is started in a state statisfied precond P hold then it will term only when postcondition Q holds"
+
+
+$$
+(x = 0) \implies [x := x+1] \ (x=1) \ \checkmark \newline
 $$
